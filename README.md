@@ -7,10 +7,6 @@ Machine learning has significant applications in the stock price prediction. In 
 #### 1.First, we will learn how to predict stock price using the LSTM neural network.
 #### 2.Then we will build a dashboard using Plotly dash for stock analysis.
 
-# Dataset
-### 1.To build the stock price prediction model, we will use the NSE TATA GLOBAL dataset. This is a dataset of Tata Beverages from Tata Global Beverages Limited, National Stock Exchange of India: Tata Global Dataset
-### 2.To develop the dashboard for stock analysis we will use another stock dataset with multiple stocks like Apple, Microsoft, Facebook: Stocks Dataset
-
 ## :desktop_computer:	Installation
 
 ### :hammer_and_wrench: Requirements
